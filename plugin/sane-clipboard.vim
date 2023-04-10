@@ -1,5 +1,5 @@
-" Title:        move-lines.vim
-" Description:  A plugin to provide remappings for easily moving lines around
+" Title:        sane-clipboard.vim
+" Description:  A plugin to fixes some clipboard settings
 " Last Change:  09 Apr 2023
 " Maintainer:   Aaron Lichtman <https://github.com/alichtman>
 
